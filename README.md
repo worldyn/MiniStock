@@ -19,6 +19,8 @@ The UI can probably be replaced with some kind of web app or something in real l
 10. open new window and activate the virtual environment and start user_interface.py
 11. Open more clients with user_interface.py... and so on
 
+NOTE: if you know what you're doing one can run the repository's shell script 
+
 # Test this application / blow up your computer
 1. Run test/test.py while the rabbitmq server is up and application.py is running.
 2. Increase the PROCESSES_COUNT and run test/test.py in multiple windows
